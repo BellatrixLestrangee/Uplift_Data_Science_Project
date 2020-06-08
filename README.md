@@ -1,4 +1,4 @@
-# Data_Science_public_contributionl
+# Data_Science_public_contribution_uplift_project...
 3 Month Plan for DataScience skills enhancement.
 
 June
