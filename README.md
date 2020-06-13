@@ -25,10 +25,6 @@
 
 ### Plan of Action for second Month 15 days till 15 August 2020
 
-•	Basic Prototyping 
-•	Mockup work
-•	Motion Graphics
-•	How to implement the whole idea in Video
 
 ### Plan of Action for Third Month till 30 August 2020
 
@@ -36,6 +32,5 @@
 •	Collect Mockup n everything
 •	Presentation for this project
 
-Book:
-Data Science from scratch
-Jake venderplas python data science
+
+
