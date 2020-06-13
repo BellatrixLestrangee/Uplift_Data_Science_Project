@@ -1,37 +1,40 @@
 # Data_Science_public_contribution_uplift_project...
 3 Month Plan for DataScience skills enhancement.
 
-June
+Plan of Action for first 15 days till 15 June 2020 
 
- * Week 1: Team Collaboration Activity
+•	Basic work of theme finalize
+•	Software Setup
+•	Little Brief about tools
+•	Task 1 with basic of Data Science Why use, when use, where use in detail.
 
- * Week 2: Basic & fast  I/O Techniques , Printing Practices, Resource Sharing, Arrays.
+Plan of Action for first Month till 30 June 2020
 
- * Week 3: More Arrays, Sets & Strings ||  Recursion, Dynamic Programming
+•	Task 2 with Learn about How Visualize Data, Libraries used for Visualization(Matplotlib, Numpy, Pandas)
+•	Task 3 Learn about Linear Algebra, Statistics and Probability (Basics)
 
- * Week 4: Maps (Dictionaries/Hash Maps) & Multi-dimensional Arrays || Searching Sorting Algo
+Plan of Action for 1 Month 15 days till 15 July 2020
 
-July 
+•	Task 1 Learn about getting data(Web Scraping, Reading files), working with data(Cleaning, munging, manipulating data, rescaling, dimensionality reduction)
+•	Task 2 Learn about Basic understanding about ML and its model(Regression, Decision Tree, Neural Network, Clustering)
 
- * Week 1: Trees, Graphs || Traversals- BFS, DFS
+Plan of Action for second month till 30 July 2020
 
- * Week 2: Heaps, BSTs & Other Algo- A star.
+•	Project 1 
 
- * Week 3: ------Contests-------
+Plan of Action for second Month 15 days till 15 August 2020
 
- * Week 4: Company Wise Leetcode
+•	Basic Prototyping 
+•	Mockup work
+•	Motion Graphics
+•	How to implement the whole idea in Video
 
-August
+Plan of Action for Third Month till 30 August 2020
 
-We’ll work on Company Wise Leetcode in 4 weeks of August as well.
+•	Finalization of idea
+•	Collect Mockup n everything
+•	Presentation for this project
 
-
-Duties of Mentors: To post daily questions & resources for the topics. (on Github & Slack)
-Duties of Mentees/ Participants: To post their soln in a shared Github Repo 
-Demo link: (https://github.com/radadiyamohit81/Data_Science_public_contribution)
-( for this: collect github A/C of participants & invite to edit.)
-
-Discussions on the daily problems at Slack Channel.
-
-Note: Data Structures & Algos will be parallely done with (optional) Live Contests on Codechef/Leetcode/Codeforces.
-
+Book:
+Data Science from scratch
+Jake venderplas python data science
