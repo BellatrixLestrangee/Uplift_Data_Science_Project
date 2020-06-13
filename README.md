@@ -3,24 +3,25 @@
 
 ### Plan of Action for first 15 days till 15 June 2020 
 
-•	Basic work of theme finalize
-•	Software Setup
-•	Little Brief about tools
-•	Task 1 with basic of Data Science Why use, when use, where use in detail.
+•	Basic work of theme finalize <br>
+•	Software Setup <br>
+•	Little Brief about tools <br>
+•	Task 1: Basic of Data Science Why use, when use, where use in detail. <br>
 
 ### Plan of Action for first Month till 30 June 2020
 
-•	Task 2 with Learn about How Visualize Data, Libraries used for Visualization(Matplotlib, Numpy, Pandas)
-•	Task 3 Learn about Linear Algebra, Statistics and Probability (Basics)
+•	Task 2: Learn about How Visualize Data, Libraries used for Visualization(Matplotlib, Numpy, Pandas) <br>
+•	Task 3: Learn about Linear Algebra, Statistics and Probability (Basics)<br>
 
 ### Plan of Action for 1 Month 15 days till 15 July 2020
 
-•	Task 1 Learn about getting data(Web Scraping, Reading files), working with data(Cleaning, munging, manipulating data, rescaling, dimensionality reduction)
-•	Task 2 Learn about Basic understanding about ML and its model(Regression, Decision Tree, Neural Network, Clustering)
+•	Task 1: Learn about getting data(Web Scraping, Reading files), working with data(Cleaning, munging, manipulating data, rescaling, dimensionality reduction) <br>
+•	Task 2: Learn about Basic understanding about ML and its model(Regression Analysis, Decision Tree, Clustering, etc.) <br>
 
 ### Plan of Action for second month till 30 July 2020
 
-•	Project 1 
+•	Project 1: (Case study for ice cream sales data) <br>
+•	Project 2: (Loan Prediction) <br>
 
 ### Plan of Action for second Month 15 days till 15 August 2020
 
