@@ -1,7 +1,7 @@
 # Data_Science_public_contribution_uplift_project...
 3 Month Plan for DataScience skills enhancement.
 
-# Plan of Action for first 15 days till 15 June 2020 
+## Plan of Action for first 15 days till 15 June 2020 
 
 •	Basic work of theme finalize
 •	Software Setup
