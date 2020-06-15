@@ -20,11 +20,12 @@
 
 ### Plan of Action for second month till 30 July 2020
 
-•	Project 1: (Case study for ice cream sales data) <br>
-•	Project 2: (Loan Prediction) <br>
+•	Project 1: Case study for ice cream sales data. <br>
+•	Project 2: Loan Prediction <br>
 
 ### Plan of Action for second Month 15 days till 15 August 2020
 
+•	Final Project: Fraud Detection on Banking Data
 
 ### Plan of Action for Third Month till 30 August 2020
 
@@ -32,5 +33,4 @@
 •	Collect Mockup n everything
 •	Presentation for this project
 
-
-
+If any changes need then make PR..
